@@ -1,0 +1,4 @@
+pdfplumber==0.11.4
+pandas==2.2.2
+groq
+python-dotenv==1.0.1

@@ -1,0 +1,34 @@
+Job Title: Senior Python Backend Engineer
+
+About the Role:
+We are looking for a Senior Python Backend Engineer with 4+ years of experience to join our growing fintech team. You will design and build scalable APIs, work with cloud infrastructure, and collaborate with cross-functional teams to deliver high-quality software.
+
+Required Skills:
+- Python (4+ years)
+- REST API design and development
+- PostgreSQL or similar relational database
+- Docker and containerisation
+- AWS or GCP cloud services
+- Git version control
+
+Nice to Have:
+- FastAPI or Django REST Framework
+- Redis or message queues (RabbitMQ / Kafka)
+- CI/CD pipelines (GitHub Actions, Jenkins)
+- Experience in fintech or financial services
+
+Minimum Experience:
+4+ years of professional software engineering experience, with at least 2 years focused on backend Python development.
+
+Location:
+Remote (US, UK, or EU residents only)
+
+Work Authorization:
+Must be authorised to work in the US, UK, or EU. No sponsorship available.
+
+Responsibilities:
+- Design and build RESTful APIs consumed by mobile and web clients
+- Optimise database queries and data models for performance
+- Write clean, well-tested, and documented code
+- Participate in code reviews and architecture discussions
+- Work in an agile environment with two-week sprints

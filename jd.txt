@@ -1,0 +1,42 @@
+Job Title: Data Analyst (Fresher / Entry-Level)
+
+About the Role:
+We are looking for a motivated and detail-oriented Data Analyst (Fresher) 
+to join our growing analytics team based in London, UK. 
+This role is ideal for recent graduates or candidates with up to 1 year of experience 
+who are eager to build a career in data analytics.
+
+Required Skills:
+- Python (basic knowledge of Pandas, NumPy)
+- SQL (basic queries, joins)
+- Excel (formulas, pivot tables)
+- Data visualization (Power BI, Tableau, or similar)
+- Data cleaning and preprocessing
+- Basic understanding of statistics
+
+Nice to Have:
+- Internship or project experience in data analytics
+- Knowledge of Machine Learning basics
+- Experience with Power BI or Tableau dashboards
+- Familiarity with ETL concepts
+- Exposure to cloud platforms (AWS, GCP, or Azure)
+
+Minimum Experience:
+0–1 year of experience (internships and academic projects included)
+
+Location:
+Remote (UK residents only)
+
+Work Authorization:
+Must be authorised to work in the UK. No sponsorship available.
+
+Responsibilities:
+- Collect, clean, and organise datasets from multiple sources
+- Perform basic data analysis and generate insights
+- Create dashboards and reports for business teams
+- Assist in identifying trends and patterns in data
+- Work with team members to understand business requirements
+- Present findings in a simple and clear format
+
+Salary:
+£25,000 - £35,000 per annum
