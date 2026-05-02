@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+ranked_resumes/
+ranked_resumes.zip
+ranked_candidates.csv
+ranked_candidates.xlsx
